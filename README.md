@@ -79,6 +79,7 @@ Atualmente o projeto:
 ### 1. Clone o repositório
 
 git clone https://github.com/GabrielPerillo/pipeline-investimentos-alpha-vantage.git
+
 cd pipeline-investimentos-alpha-vantage
 
 ### 2. Instale as dependências
@@ -95,11 +96,15 @@ python src/ingestao/ingest_crypto.py
 
 --- 
 
-📌 Sobre o Autor
+## 📌 Sobre o Autor
+
 Projeto desenvolvido por Gabriel Perillo, engenheiro de dados aprendendo arquitetura moderna, pipelines eficientes e boas práticas de software para construir soluções reais de dados.
 
-📄 Licença
+--- 
+
+## 📄 Licença
+
 Este projeto está sob a licença MIT.
-📄 Licença
+
 
 Este projeto está sob a licença MIT.
