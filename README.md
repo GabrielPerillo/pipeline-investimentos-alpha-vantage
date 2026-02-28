@@ -29,6 +29,7 @@ Este projeto serve tanto para **aprendizado** quanto para **portfólio profissio
 
 ## 📁 Estrutura do Projeto
 
+```
 pipeline-investimentos-alpha-vantage/
 │
 ├── src/
@@ -42,6 +43,7 @@ pipeline-investimentos-alpha-vantage/
 │
 ├── .gitignore
 └── README.md
+```
 
 ---
 
