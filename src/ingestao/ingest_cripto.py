@@ -42,6 +42,7 @@ file = output_dir / f"{srcCur}_{curDate}.json"
 with file.open("w") as f:
     json.dump(data, f, indent=4, ensure_ascii=False)
 
-print(file.resolve())
+#print(file.resolve())
 #print(data)
 
+# teste para commit
