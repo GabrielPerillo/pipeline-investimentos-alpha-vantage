@@ -104,4 +104,4 @@ Projeto desenvolvido por Gabriel Perillo, engenheiro de dados aprendendo arquite
 
 ## 📄 Licença
 
---- cença MIT.
+Este projeto está sob a licença MIT.
