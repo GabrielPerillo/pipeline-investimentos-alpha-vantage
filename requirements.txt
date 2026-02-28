@@ -1,0 +1,5 @@
+requests
+pyspark
+alpha_vantage
+python-dotenv
+pytest
