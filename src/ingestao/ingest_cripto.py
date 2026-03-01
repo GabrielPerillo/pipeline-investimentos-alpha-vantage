@@ -44,5 +44,3 @@ with file.open("w") as f:
 
 #print(file.resolve())
 #print(data)
-
-# teste para commit
